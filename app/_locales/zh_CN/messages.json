@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "faith",
+        "description": "一次练习"
+    },
+    "appDescription": {
+        "message": "测试练习",
+        "description": "描述"
+    }
+}
